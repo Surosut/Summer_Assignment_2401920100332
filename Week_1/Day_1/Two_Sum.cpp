@@ -1,3 +1,5 @@
+// time complexity of O(n^2)
+
 class Solution
 {
 public:
